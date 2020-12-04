@@ -1,0 +1,10 @@
+En la ciudad de: Antofagasta, Entraron: 834 Pasajeros. Y Salieron: 98 Pasajeros.
+En la ciudad de: Arica, Entraron: 132 Pasajeros. Y Salieron: 0 Pasajeros.
+En la ciudad de: Calama Entraron: 0 Pasajeros. Y Salieron: 930 Pasajeros.
+En la ciudad de: Concepcion Entraron: 0 Pasajeros. Y Salieron: 957 Pasajeros.
+En la ciudad de: Isla de Pascua Entraron: 0 Pasajeros. Y Salieron: 1482 Pasajeros.
+En la ciudad de: Puerto Montt, Entraron: 93 Pasajeros. Y Salieron: 0 Pasajeros.
+En la ciudad de: Rancagua Entraron: 0 Pasajeros. Y Salieron: 132 Pasajeros.
+En la ciudad de: San Fernando, Entraron: 140 Pasajeros. Y Salieron: 93 Pasajeros.
+En la ciudad de: Santiago, Entraron: 3021 Pasajeros. Y Salieron: 648 Pasajeros.
+En la ciudad de: Temuco, Entraron: 120 Pasajeros. Y Salieron: 0 Pasajeros.

@@ -1,0 +1,24 @@
+206,Santiago,Antofagasta,1,julio,168
+207,Concepcion,Santiago,1,julio,153
+202,Concepcion,Temuco,2,abril,120
+108,Isla de Pascua,Santiago,16,marzo,432
+207,Concepcion,Santiago,3,abril,140
+206,Santiago,Antofagasta,1,febrero,160
+105,Concepcion,Santiago,3,mayo,132
+120,Isla de Pascua,Antofagasta,15,marzo,93
+290,Antofagasta,Santiago,1,julio,49
+108,Isla de Pascua,Santiago,16,marzo,432
+207,Concepcion,Santiago,3,abril,140
+206,Santiago,Antofagasta,1,febrero,160
+105,Rancagua,Santiago,3,mayo,132
+120,San Fernando,Antofagasta,15,marzo,93
+290,Antofagasta,Santiago,1,julio,49
+108,Isla de Pascua,Santiago,16,marzo,432
+207,Concepcion,San Fernando,3,abril,140
+206,Santiago,Antofagasta,1,febrero,160
+105,Concepcion,Arica,3,mayo,132
+120,Isla de Pascua,Puerto Montt,15,marzo,93
+290,Viña del Mar,Santiago,1,julio,49
+290,Calama,Santiago,1,julio,930
+350,San Pedro,Santiago,1,julio,10
+320,Santiago,Iquique,4,enero,20
